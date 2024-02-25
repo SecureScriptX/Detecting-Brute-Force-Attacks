@@ -1,0 +1,13 @@
+
+# Protocols/Services Vulnerable to Brute Force Attacks
+
+Brute force attacks are commonly observed in various areas within institutions, targeting:
+
+- Web application login pages
+- RDP services (port 3389)
+- SSH services (port 22)
+- Mail server login pages
+- LDAP services (port 389 or 636)
+- Database services (MS SQL, MySQL, PostgreSQL, Oracle, etc.)
+- Web application home directories (directory brute force)
+- DNS servers, often to detect DNS records (DNS brute force)
