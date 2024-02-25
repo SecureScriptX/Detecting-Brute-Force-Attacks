@@ -1,0 +1,21 @@
+**Tools Employed in Brute Force Attacks**
+
+Explore the arsenal of tools utilized in brute force attacks:
+
+**1. Aircrack-ng:**
+   Aircrack-ng is a potent 802.11a/b/g WEP/WPA cracking program. Capable of recovering WEP keys (40-bit, 104-bit, 256-bit, or 512-bit) by gathering sufficient encrypted packets. Additionally, it can employ advanced methods or straightforward brute force to attack WPA1/2 networks.
+
+**2. John the Ripper:**
+   Designed for systems administrators, John the Ripper identifies weak passwords, making them susceptible to brute force attacks. It runs on various platforms, including Unix, Windows, and OpenVMS. Administrators can even configure it to automatically alert users about weak passwords.
+
+**3. L0phtCrack:**
+   Specializing in cracking Windows passwords, L0phtCrack utilizes rainbow tables, dictionaries, and multiprocessor algorithms to enhance its password-cracking capabilities.
+
+**4. Hashcat:**
+   Supporting over 300 highly-optimized hashing algorithms, Hashcat offers five distinct attack modes. Compatible with CPUs, GPUs, and other hardware accelerators on Linux, it also provides facilities for distributing password cracking tasks.
+
+**5. Ncrack:**
+   Ncrack serves as a network authentication cracker, applicable on Windows, Linux, and BSD. Built to assist companies in fortifying their networks, Ncrack proactively tests hosts and networking devices for vulnerabilities associated with weak passwords.
+
+**6. Hydra:**
+   Hydra stands out as a parallelized login cracker supporting numerous protocols for attacks. Known for its speed and flexibility, Hydra allows for easy integration of new modules to expand its capabilities.
