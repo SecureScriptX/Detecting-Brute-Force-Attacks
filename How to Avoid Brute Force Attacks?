@@ -1,0 +1,27 @@
+
+# How to Mitigate Brute Force Attacks
+
+To safeguard your organization against brute force attacks, enforce the use of robust passwords. Consider the following best practices:
+
+- **Avoid Information Found Online:** Steer clear of easily accessible information, such as names of family members.
+- **Optimal Character Length:** Use as many characters as possible.
+- **Diverse Character Types:** Combine letters, numbers, and symbols.
+- **Minimum 8 Characters:** Enforce a minimum password length of 8 characters.
+- **Unique User Account Passwords:** Ensure each user account has a distinct password.
+- **Avoid Common Patterns:** Discourage the use of common password patterns.
+
+As administrators, here are some measures to protect users from brute-force attacks:
+
+1. **Lock Policy:** Automatically lock accounts after a specified number of failed login attempts and unlock them through administrative intervention.
+
+2. **Progressive Delays:** Temporarily lock accounts after a certain number of failed login attempts.
+
+3. **Recaptcha:** Integrate tools like Captcha-reCAPTCHA to mandate users to complete simple tasks before logging into the system.
+
+4. **Strong Password Policy:** Enforce policies requiring users to define lengthy and complex passwords, and mandate periodic password changes.
+
+5. **2FA (Two-Factor Authentication):** Implement a second layer of verification (SMS, email, token, push notification, etc.) after entering the username and password.
+
+## Brute Force Attack Detection (4.1)
+
+Detecting brute force attacks often involves defining specific rules in SIEM (Security Information and Event Management) systems. These rules consider the number of unsuccessful login attempts within a defined timeframe. Analysis of relevant alarms involves examining trial protocol/application logs to draw necessary conclusions.
