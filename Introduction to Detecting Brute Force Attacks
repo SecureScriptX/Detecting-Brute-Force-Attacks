@@ -1,0 +1,27 @@
+
+# Brute Force Attacks: Detection and Prevention
+
+Brute force attacks are a commonly employed technique by attackers due to their potential for direct system access upon success. Detecting and implementing necessary precautions against such attacks is of utmost importance.
+
+## BF Training Contents
+
+1. **What is a Brute Force Attack?**
+   - Understanding the basics and methodology of brute force attacks.
+
+2. **Brute Force Attack Types**
+   - Exploring various types and variations of brute force attacks.
+
+3. **Online and Offline Brute Force Attacks**
+   - Differentiating between online and offline brute force attack methods.
+
+4. **Applications and Protocols Vulnerable to Brute Force Attacks**
+   - Identifying applications and protocols susceptible to brute force attacks.
+
+5. **Tools Used in Brute Force Attacks**
+   - Examining commonly employed tools for executing brute force attacks.
+
+6. **Preventing Brute Force Attacks**
+   - Implementing measures to safeguard against brute force attacks.
+
+7. **Brute Force Attack Detection Examples**
+   - Demonstrating practical examples and techniques for detecting brute force attacks.
